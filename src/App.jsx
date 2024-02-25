@@ -1,11 +1,10 @@
-import { useState } from 'react'
+import React from 'react'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <div className="bg-offblack min-h-screen flex justify-center items-center font-inter">
+    <div className="bg-offblack min-h-screen font-inter flex justify-center items-center">
       <main className="bg-dark_grey w-[315px] rounded-xl p-10 flex flex-col justify-center items-center sm:w-[375px]">
         <div className="rounded-full w-20 h-20 overflow-hidden">
           <img src="avatar-jessica.jpeg" alt="Profile avatar image"/>
