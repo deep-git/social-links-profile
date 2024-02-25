@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="bg-offblack min-h-screen flex justify-center items-center font-inter">
-      <main className="bg-dark_grey w-[315px] sm:w-[375px] rounded-xl p-10 flex flex-col justify-center items-center">
+      <main className="bg-dark_grey w-[315px] rounded-xl p-10 flex flex-col justify-center items-center sm:w-[375px]">
         <div className="rounded-full w-20 h-20 overflow-hidden">
           <img src="avatar-jessica.jpeg" alt="Profile avatar image"/>
         </div>
