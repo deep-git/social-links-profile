@@ -15,11 +15,11 @@ function App() {
         <p className="text-sm text-neutral_white text-center mt-5">"Front-end developer and avid reader."</p>
 
         <section className="mt-6 w-full flex flex-col">
-          <div>Github</div>
-          <div>Frontend Mentor</div>
-          <div>LinkedIn</div>
-          <div>Twitter</div>
-          <div>Instagram</div>
+          <button>Github</button>
+          <button>Frontend Mentor</button>
+          <button>LinkedIn</button>
+          <button>Twitter</button>
+          <button>Instagram</button>
         </section>
       </main>
     </div>
