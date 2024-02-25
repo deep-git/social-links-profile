@@ -5,6 +5,6 @@ This project is a Frontend Mentor challenge project that utilizes HTML and CSS t
 ## View Site
 Link: https://deep-git.github.io/social-links-profile/
 
-## Technologies Utilizes
+## Technologies Utilized
 - HTML
 - Tailwind CSS
